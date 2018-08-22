@@ -8,4 +8,4 @@ Added a rich-text editor using tiny-mce.
 
 Also integrated facebook comments and it's like, share functionality.
 
-A live version can be found here - jordanr.herokuapp.com
+A live version can be found here - https://jordanr.herokuapp.com/
